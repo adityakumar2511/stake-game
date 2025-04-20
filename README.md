@@ -14,7 +14,7 @@ A simple and fun Stack Game built using HTML, CSS, and JavaScript. The goal is t
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ## 🚀 How to Play
 
