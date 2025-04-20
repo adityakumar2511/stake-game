@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.container{
+    margin: 5px;
+    padding: 2px;
+    padding-top: 25px;
+    background-color: brown;
+    height: 95vh;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col{
+    margin: 4px;
+    padding: 4px;
+    width: 150px;
+    height: 150px;                                                                      
+    background-color: burlywood;
+    border: 4px solid black;
+    display: flex;
+    color:white;    
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+#gameOverScreen{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.8;
+    position: absolute;
+    top:0;
+    left:0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+#gameWonScreen{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.8;
+    position: absolute;
+    top:0;
+    left:0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+#gameOverScreen h1{
+    color: white;
+    font-size: 3rem;
+}
+#gameWonScreen h1{
+    color: white;
+    font-size: 3rem;
+}
