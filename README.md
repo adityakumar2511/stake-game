@@ -27,5 +27,4 @@ A simple and fun Stack Game built using HTML, CSS, and JavaScript. The goal is t
 ## 🖥️ How to Run
 
 1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stack-game.git
+   https://adityakumar2511.github.io/stake-game/
